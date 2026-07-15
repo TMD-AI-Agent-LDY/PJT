@@ -1,0 +1,44 @@
+{
+    "header": {
+        "type": "esearch",
+        "version": "0.3"
+    },
+    "esearchresult": {
+        "count": "68594",
+        "retmax": "20",
+        "retstart": "0",
+        "idlist": [
+            "42420708",
+            "42420571",
+            "42420441",
+            "42419776",
+            "42420542",
+            "42420329",
+            "42420060",
+            "42419955",
+            "42418827",
+            "42418754",
+            "42418739",
+            "42418670",
+            "42418410",
+            "42418308",
+            "42418216",
+            "42418215",
+            "42418059",
+            "42417979",
+            "42417944",
+            "42417846"
+        ],
+        "translationset": [
+            {
+                "from": "artificial intelligence",
+                "to": "\"artificial intelligence\"[MeSH Terms] OR (\"artificial\"[All Fields] AND \"intelligence\"[All Fields]) OR \"artificial intelligence\"[All Fields]"
+            },
+            {
+                "from": "cancer",
+                "to": "\"cancer's\"[All Fields] OR \"cancerated\"[All Fields] OR \"canceration\"[All Fields] OR \"cancerization\"[All Fields] OR \"cancerized\"[All Fields] OR \"cancerous\"[All Fields] OR \"neoplasms\"[MeSH Terms] OR \"neoplasms\"[All Fields] OR \"cancer\"[All Fields] OR \"cancers\"[All Fields]"
+            }
+        ],
+        "querytranslation": "(\"artificial intelligence\"[MeSH Terms] OR (\"artificial\"[All Fields] AND \"intelligence\"[All Fields]) OR \"artificial intelligence\"[All Fields]) AND (\"cancer s\"[All Fields] OR \"cancerated\"[All Fields] OR \"canceration\"[All Fields] OR \"cancerization\"[All Fields] OR \"cancerized\"[All Fields] OR \"cancerous\"[All Fields] OR \"neoplasms\"[MeSH Terms] OR \"neoplasms\"[All Fields] OR \"cancer\"[All Fields] OR \"cancers\"[All Fields])"
+    }
+}
